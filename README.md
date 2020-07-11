@@ -1,5 +1,6 @@
 # Mageflame
-An Open Game License set of character names
+An Open Game License set of character names.
+Some have more than one option, indicated by commas `,`
 
 ## OGL Character Names
 
@@ -8,8 +9,8 @@ An Open Game License set of character names
 * Hell Mistress
 * Lord of the Forge
 * The Elven Court
-* The Road King
-* Stareater
+* The Road King, The Ivory Throne
+* Stareater, The Gatekeeper
 * Forestwalker
 * Gravebreaker
 * The Devourer
