@@ -16,4 +16,4 @@ Some have more than one option, indicated by commas `,`
 * The Devourer
 * Godspeaker
 * The Faceless
-* The Chromatic Council
+* The Chromatic Council, The Council of Scales
